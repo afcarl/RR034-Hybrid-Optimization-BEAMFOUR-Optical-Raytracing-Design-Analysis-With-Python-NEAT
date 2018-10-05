@@ -1,0 +1,303 @@
+Show RMS when goals exist|T
+View Elevation|33.0
+View Azimuth|45.0
+Sticky pan/zoom?|F
+Arc Segments|10
++X|T
+-X|F
++Y|F
+-Y|F
++Z|F
+-Z|F
+Hruler|T
+Vruler|T
+Xaxis|T
+Yaxis|T
+Zaxis|T
+White|T
+Black|F
+Stereo|F
+Parallax|5
+N|T
+E|T
+S|T
+W|T
+NE|T
+SE|T
+SW|T
+NW|T
+Refractor shading?|T
+Rays|0.5
+Surfs|1.5
+Axes|0.5
+Sticky uxcenter|0
+Sticky uycenter|0
+Sticky uzcenter|0
+Sticky uxspan|0
+Sticky uyspan|0
+Sticky uzspan|0
+Refractor connectors?|F
+Retro visible?|T
+Step size|1E-6
+Max Iter|100
+Tolerance|1E-12
+Horiz Var|yfinal
+Horiz Span|
+Vert Var|xfinal
+Vert Span|
+Encoding Wavel|
+Dot|T
+Plus|F
+Square|F
+Diamond|F
+Good rays|T
+All rays|F
+Additional surface, none if zero|
+Black Background|F
+Nplots horizontally|1
+Var 1|V0
+Values|0.0
+Var 2|
+Values|
+Var 3|
+Values|
+Nplots vertically|1
+Var 1|U0
+Values|0.0
+Var 2|
+Values|
+Var 3|
+Values|
+horiz var in each box|yfinal
+hor span, or blank=auto|
+vert var in each box|xfinal
+vert span, or blank=auto|
+BoxFraction of screen grid|0.7
+H|F
+V|F
+n|F
+h|F
+v|F
+hh|F
+v v|F
+hv|F
+s|F
+m|F
+Black Bkg|F
+Round PlotBox|F
+Skip any empty boxes|F
+Restrict plotted rays to box|F
+rmsWFE|F
+pvWFE|F
+rmsPSF|T
+rssPSF|F
+Variable|V0
+Step size|0.001
+How many points?|10
+Pixels per point?|5
+Center: blank=auto|
+Parallax variable|
+Parallax step|
+Variable|U0
+Step size|0.001
+How many points?|10
+Pixels per point?|5
+Center: blank=auto|
+Parallax variable|
+Parallax step|
+Max % vignetting|33
+Width/Height|1.0
+Text output filename|
+A Var|xfinal
+A Span|
+B Var|yfinal
+B Span|
+C Var|zfinal
+C Span|
+View Elev|33
+View Azim|45
+Encoding Wavel|
+Dot|T
+Plus|F
+Sqr|F
+Diam|F
+Good rays|T
+All rays|F
+White|T
+Black|F
+Stereo|F
+Parallax|5
+Var|xfinal
+Nbins|256
+Automatic Bounds|T
+Diameter Bounds|F
+Manual Bounds|F
+Manual Min|
+Manual Max|
+Show average|T
+Orchard Diagram|F
+Manhattan Diagram|T
+Hor Var|yfinal
+Vert Var|xfinal
+H bins|32
+V bins|32
+View elev|22
+View Azim|22
+Automatic Bounds|T
+Diameter Bounds|F
+Manual Bounds|F
+Manual Hor Min|
+Manual Hor Max|
+Manual Vert Min|
+Manual Vert Max|
+White|T
+Black|F
+Stereo|F
+Parallax|5
+Random rays per refresh|100
+Stop at ray starts|99999
+or at ray finishes|99999
+Continuous?|T
+or Discrete?|F
+Continuous?|T
+or Discrete?|F
+Uniform?|T
+Cosine?|F
+Quartic Bell?|F
+Gaussian?*|F
+Lorentzian?*|F
+*Concentration=|4
+Postscript,  .EPS|T
+Plot size A,  .PLT|F
+Plot size B,  .PLT|F
+Plot size C,  .PLT|F
+Plot size D,  .PLT|F
+Plot size E,  .PLT|F
+2D DXF file,  .DXF|F
+3D DXF file,  .DXF|F
+Quads file,  .TXT|F
+Landscape|T
+Portrait|F
+No AutoLoad|F
+AutoLoad most recent|T
+No AutoLoad|F
+AutoLoad most recent|T
+No AutoLoad|F
+AutoLoad most recent|T
+Start at User Home|F
+Or most recent folder|T
+RecentFolder|C:\0_afc_working\0_Neat_Python\0_test\INPUT.RAY
+Allow MacOS icons|F
+Forbid MacOS icons|T
+Show file paths?|F
+Show row & col?|T
+Expand commas when reading?|T
+Default fieldwidth, chars|10
+Colons: for text?|T
+Tabs: spreadsheets?|F
+Editor font size, points|14
+Editor bold font?|T
+Editor pixel smoothing?|T
+Table mode?|T
+or text mode?|F
+To zoom in: pull wheel?|F
+or push wheel?|T
+Graphic font size, pixels|12
+Graphic bold font?|T
+Annotation font size, pixels|18
+Annotation bold font?|T
+Initial window size, pixels|400
+Graphics pixel smoothing?|T
+U|F
+V|F
+W|T
+Positive|T
+Negative|F
+Volume|T
+Isotropic U0|F
+Isotropic V0|F
+Isotropic W0|F
+Isotropic radius, deg|10.0
+X|T
+Y|F
+Z|F
+U|F
+V|F
+W|F
+1D Center|0.0
+1D Span|1.0
+1D Ncount|10
+Start at row|1
+ray starts?|T
+or ray goals?|F
+X,Y|T
+X,Z|F
+Y,Z|F
+U,V|F
+U,W|F
+V,W|F
+2D Center1|0.0
+2D Span1|1.0
+2D Num1|10
+2D Center2|0.0
+2D Span2|1.0
+2D Num2|10
+Start at row|1
+ray starts?|T
+or ray goals?|F
+X,Y|T
+X,Z|F
+Y,Z|F
+U,V|F
+U,W|F
+V,W|F
+1st coord offset|0.0
+2nd coord offset|0.0
+Outer circle radius|1.0
+Number of circles|1
+Start at row|1
+ray starts?|T
+or ray goals?|F
+X,Y|T
+X,Z|F
+Y,Z|F
+U,V|F
+U,W|F
+V,W|F
+1st coord offset|0.0
+2nd coord offset|0.0
+Outer circle radius|1.0
+Number of circles|1
+Start at row|1
+ray starts?|T
+or ray goals?|F
+RO0|C:\0_afc_working\0_Neat_Python\0_test\INPUT.OPT
+RO1|
+RO2|
+RO3|
+RO4|
+RO5|
+RO6|
+RO7|
+RO8|
+RO9|
+RR0|C:\0_afc_working\0_Neat_Python\0_test\INPUT.RAY
+RR1|
+RR2|
+RR3|
+RR4|
+RR5|
+RR6|
+RR7|
+RR8|
+RR9|
+RM0|
+RM1|
+RM2|
+RM3|
+RM4|
+RM5|
+RM6|
+RM7|
+RM8|
+RM9|
